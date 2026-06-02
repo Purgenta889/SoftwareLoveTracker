@@ -4,7 +4,7 @@ Tracking whether corporations and organizations behind software projects, softwa
 
 ## Disclaimers
 
-This list does not track any perceived "favourtism" to the aforementioned, and any other minority groups. It is designed solely in good faith, and not to spread hate against any gender, sexual identity, or racial groups. It serves to inform users of the background behind the softwares they may utilize in their lives, only in regards to support of the LGBTQ+ community.
+This list does not track any perceived "favourtism" to the aforementioned, and any other demographic groups. It is designed solely in good faith, and not to direct hate towards identity groups. It serves to inform users of the background behind the softwares they may utilize in their lives, only in regards to support of the LGBTQ+ community.
 
 Many of these sources as of currently are taken from sources biased against those who identify as LGBTQ+. Ironically, this provides corroborating evidence for the intents of this list, but due to the informal negativity directed at minority groups, many citations are in the process of being changed or removed for the purpose of greater accuracy.
 
