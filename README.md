@@ -8,7 +8,7 @@ This list does not track any perceived "favourtism" to the aforementioned, and a
 
 Many of these sources as of currently are taken from sources biased against those who identify as LGBTQ+. Ironically, this provides corroborating evidence for the intents of this list, but due to the informal negativity directed at minority groups, many citations are in the process of being changed or removed for the purpose of greater accuracy.
 
-And finally, all of this list is done in good faith. None of this is intended to express any bias towards anyone, and if you see something that might look like it, it is simply an honest mistake. Please take it all with a grain of salt.
+And finally, all of this list is done in good faith. None of this is intended to express any bias, bigotry, or discrimination towards anyone, and if you see something that might look like it, it is simply an honest mistake. Please take it all with a grain of salt.
 
 ## Software List
 
