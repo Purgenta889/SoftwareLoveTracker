@@ -1,6 +1,6 @@
 # SoftwareLoveTracker
 
-Tracking whether corporations and organizations behind software projects, and software foundations, support those identifying as LGBTQ+, and other minority groups.
+Tracking the support for minority demographics that technology corporations and organizations express, all in good faith. 
 
 ## Disclaimers
 
