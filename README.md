@@ -8,7 +8,7 @@ This list does not track any perceived "favourtism" to the aforementioned, and a
 
 Many of these sources as of currently are taken from sources biased against those who identify as LGBTQ+. Ironically, this provides corroborating evidence for the intents of this list, but due to the informal negativity directed at minority groups, many citations are in the process of being changed or removed for the purpose of greater accuracy.
 
-Additionally, just because a software is not on a list, does not mean it is against or for any ideology (Example: A software not being on Software for Diversity does not mean it is against such), there is simply not specific evidence that can be attributed to them, or the software has simply not been addressed in the list at all.
+Additionally, just because a software is not on a list, does not mean it is against or for any ideology (Example: A software not being on Software for Diversity does not mean it is against such). There is simply not specific evidence that can be attributed to them, or the software has simply not been addressed in the list at all.
 
 
 
