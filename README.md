@@ -74,3 +74,6 @@ The following software projects, foundations &amp; corporations have been embroi
 | --- | --- | --- |
 | ➡️  | **OpenMandriva** | [Holds no official political comment](https://forum.openmandriva.org/t/lunduke-sent-me/6635/2) |
 | ➡️  | **Deuvuan** | [Maintains an apolitical stance](https://dev1galaxy.org/viewtopic.php?id=17) |
+
+# Want to Suggest Changes or Additions?
+Make a [pull request](https://github.com/Purgenta889/SoftwareLoveTracker/pulls)! Issues are closed due to the potential risk of harassment this repository could receive if they were left open.
