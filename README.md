@@ -98,6 +98,27 @@ The following software projects, foundations &amp; corporations have been embroi
 | ➡️  | **Deuvuan**      | [Maintains an apolitical stance](https://dev1galaxy.org/viewtopic.php?id=17)                   |
 | ➡️  | **OpenMandriva** | [Holds no official political comment](https://forum.openmandriva.org/t/lunduke-sent-me/6635/2) |
 
+# Why?
+
+You may be wondering, what's the point of a list like this? After all, many do not actually think about whether the software they're using supports minorities or not. Obviously, they wouldn't like it if they didn't, but it's not something that comes across many people's minds that often. 
+
+
+
+So, that brings the question: "What's the point of this list?" And to answer that, this is list **meant to showcase the diversity prevalent within the technological community!** Whether FOSS or not, and whether you personally like the corporation/organization or not, this list is intended to show that the vast majority of competent software is developed by people who support the human rights that are LGBT rights, racial minorities, and more. 
+
+Usually, the software that lands itself in categories like "Software Not For Diversity ⚠️" tend to be (to be quite brutal) subpar or useless trash. Who cares about Redot, which is some random fork that appeared because someone couldn't handle a PR guy posting "#Wokot" on Twitter (X)? XLibre is made by people who are weirdly attached and throwing temper tantrums over software. These softwares share a common trait of being useless.
+
+
+
+The other categories exist for clarification, as usually, they land themselves there after being in hot water regarding issues related to topics discussed in this repository.
+
+
+
+It also serves as a way to counter the personal insecurities and overthinking that many marginalized individuals may face in their identity. In an age where the internet amplifies the most hateful voices, it can lead to people of minority demographics embracing the false belief that they will not be accepted for who they are. This is entirely untrue. From this list, we can make the conclusion that a majority of software projects do support them, and those that don't, never contributed much to society anyway. In that light, this list serves an anti-thesis to the weird, "woke-hating" mob that whines about pronouns being in someone's bio. That anti-thesis is simply:
+
+
+**You are supported for who you are!**
+
 # Want to Suggest Changes or Additions?
 
 Make a [pull request](https://github.com/Purgenta889/SoftwareLoveTracker/pulls)! Issues are closed due to the potential risk of harassment this repository could receive if they were left open.
